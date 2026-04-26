@@ -1,16 +1,29 @@
-## Hi there 👋
+# Stephen Scroggins, PhD
+### Epidemiology | Spatial Data Science | Bayesian Modeling
 
-<!--
-**S-E-SCROGGINS/S-E-Scroggins** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am an epidemiologist and data scientist specializing in spatial analysis, population health, and manchine learning. My work focuses on building reproducible pipelines and identiying meaningful patterns and trends associated with health outcomes. 
 
-Here are some ideas to get you started:
+## Core Skills
+- Spatial analysis (small area estimation, visualization, modeling, R, GeoDa, QGIS, ARCGIS)
+- Bayesian modeling (smoothing, unstable rates, INLA/BYM2)
+- Statistical modeling (GLM, mixed models, ExWAS, Negative Binomial)
+- Validation and sensitivity of compositive indicies and survey instruments
+- Machine learning
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Selected Projects
+
+- **Small Area Estimation with INLA**
+  - Bayesian spatial models for tract-level rate smoothing with credible intervals
+
+- **Synthetic Population Generator**
+  - Generates tract-level populations using ACS tables (B01001, B11016, B19001)
+
+- **INXVALID (R Package)**
+  - Tools for validating and diagnosing composite index inputs
+ 
+- **MACHINE LEARNING EXAMPLE**
+
+
+## Links
+- LinkedIn: [https://www.linkedin.com/in/stephen-scroggins-824b1213/]
+- Additional Bio and Publication [https://www.geoscroggins.com/]
