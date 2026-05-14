@@ -50,7 +50,7 @@ Bayesian spatial models (BYM2) for tract-level rate smoothing with credible inte
 ### 👥 Synthetic Population Generator (ACS-based)
 Generates tract-level populations using ACS tables (B01001, B11016, B19001) with household structure and age distributions.
 
-### 📦 ![INXVALID (R Package)](https://github.com/S-E-SCROGGINS/INXVALID)
+### 📦 [INXVALID (R Package)](https://github.com/S-E-SCROGGINS/INXVALID)
 Tools for validating and diagnosing composite index inputs, including correlation screening, PCA summaries, and CFA workflows.
 
 ### 🔥 AI Machine Learning Prediction Project
