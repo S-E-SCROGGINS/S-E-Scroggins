@@ -47,7 +47,7 @@ I am an epidemiologist and data scientist specializing in spatial analysis, popu
 ### 🧮 Small Area Estimation with INLA
 Bayesian spatial models (BYM2) for tract-level rate smoothing with credible intervals and population offsets.
 
-### 👥 Synthetic Population Generator (ACS-based)
+### 👥 [Synthetic Population Generator (ACS-based)](https://github.com/S-E-SCROGGINS/synthpop/tree/main)
 Generates tract-level populations using ACS tables (B01001, B11016, B19001) with household structure and age distributions.
 
 ### 📦 [INXVALID (R Package)](https://github.com/S-E-SCROGGINS/INXVALID)
