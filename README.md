@@ -44,7 +44,7 @@ I am an epidemiologist and data scientist specializing in spatial analysis, popu
 
 ## 📌 Selected Projects
 
-### 🧮 Small Area Estimation with INLA
+### 🧮 [Small Area Estimation with INLA](https://s-e-scroggins.github.io/inla/)
 Bayesian spatial models (BYM2) for tract-level rate smoothing with credible intervals and population offsets.
 
 ### 👥 [Synthetic Population Generator (ACS-based)](https://github.com/S-E-SCROGGINS/synthpop/tree/main)
