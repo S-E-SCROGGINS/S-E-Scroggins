@@ -1,5 +1,5 @@
 # 👋 Stephen Scroggins, PhD  
-### Epidemiology • Spatial Data Science • Bayesian Modeling  
+### Epidemiology • Spatial Statistics • Population Health  
 
 ---
 
